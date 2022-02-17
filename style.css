@@ -21,7 +21,6 @@ body {
         lightgreen
     );
     color: black;
-    background-size: 5px;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
