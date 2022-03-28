@@ -32,3 +32,50 @@ body {
 .Datum {
     padding: 52px;
 }
+
+.Infektionsschutz{
+
+    
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.Testung{
+
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+
+.Formular
+    {
+
+        padding-left: 20px;
+        padding-top: 20px;
+
+    }
+
+.Elternschreiben {
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+
+.Infektionsbild{
+    padding-left: 30px;
+    height: 190px;
+}
+
+.FürPersonen{
+    color: red;
+}
+
+.Elterninformationen{
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.infos{
+    padding-left: 20px;
+    padding-top: 20px;
+}
